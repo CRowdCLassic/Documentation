@@ -23,7 +23,7 @@ Quick roadmap:
 6. MVP: A portal for learning and crowdfunding (the original project idea), created using some particular social software available right now. Implementing gamification instead of airdrops and using CRCL as an utility coin only.
 - There will be no real coins keeped on the site, an quantities only. They will be stored in account(s) on an exchange.
 - KYC through third-party company.  
-7. Complete code odit by a third-party company.
+7. Complete code audit by a third-party company.
 8. Go to the Moon. :)
 
 The projects will be supported by donations at first (an address will be generated to donate directly or by pointing a miner) then with small dev fee in every block generated. 
