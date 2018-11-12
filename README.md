@@ -26,7 +26,7 @@ Quick roadmap:
 7. Complete code audit by a third-party company.
 8. Go to the Moon. :)
 
-The projects will be supported by donations at first (an address will be generated to donate directly or by pointing a miner) then with small dev fee in every block generated. 
+The projects will be community driven for real and supported by donations at first (an address will be generated to donate directly or by pointing a miner) then with small dev fee in every block generated. 
 
 How to participate:
 https://discord.gg/pyCqbpB
