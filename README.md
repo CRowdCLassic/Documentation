@@ -35,6 +35,6 @@ https://github.com/CRowdcoinCLassic
 The manifesto will come to light soon to explain the intentions further.
 
 It will be an anonymous effort until the support for this project get stronger. 
-Join the future together.
+Join The Crypto Future.
 
 P.S. It may smell fishy right now but it will get better in time, this is a promise. And you know to always DYOR, right. 
