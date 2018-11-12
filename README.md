@@ -8,7 +8,7 @@ Title:
 *** There is a 200 000 premine left in the original blockchain but it cannot be accessed until next year. The matter will be investigated further.
 
 Summary:
-Enough is enough. After continuously watching the slow degradation of the Crowdcoin project for the past few months(not to mention the price), a decision was made to support the current blockchain and Neoscrypt algo. To do so a fork has to be done - snapshot was taken at 12.11.18 19:34 EET. 
+Enough is enough. After continuously watching the slow degradation of the Crowdcoin project for the past few months(not to mention the price), a decision was made to support the current blockchain and Neoscrypt algo. To do so a fork has to be done - snapshot was taken at 12.11.18 17:34 UTC. 
 
 Content:
 Quick roadmap:
