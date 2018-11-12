@@ -17,7 +17,7 @@ Quick roadmap:
  - a new wallets has to be compiled with a few things replaced.;
  - puting some nodes online to support the blockchain (or using pools if any); 
  - a manual with explanation how to mine to a wallet (local or remote).
-3. Explorer has to be started using some scripts available.
+3. An explorer has to be started using some scripts available.
 4. Complete the assessment of the project. 
 5. Moving to POW/POS/MN code.
 6. MVP: A portal for learning and crowdfunding (the original project idea), created using some particular social software available right now. Implementing gamification instead of airdrops and using CRCL as an utility coin only.
