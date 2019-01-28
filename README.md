@@ -1,4 +1,4 @@
-# Manifesto
+# Manifesto (WIP)
 To see the whitepaper, go to https://github.com/CRowdCLassic/whitepaper/wiki
 
 1. What is CRowd CLassic
