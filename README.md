@@ -1,4 +1,4 @@
-To see tghe whitepaper, go to https://github.com/CRowdCLassic/whitepaper/wiki
+To see the whitepaper, go to https://github.com/CRowdCLassic/whitepaper/wiki
 # Manifesto
 1. What is CRowd CLassic
 It is a cryptocurrency
