@@ -11,6 +11,8 @@ It will be a website with implemented gamification which purpose will be to serv
 
 - The governance
 
+- The management
+
 - About some problems and how to manage them
 
 (to be continued..)
