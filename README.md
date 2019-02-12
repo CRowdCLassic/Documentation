@@ -3,7 +3,7 @@ To see the whitepaper, go to https://github.com/CRowdCLassic/whitepaper/wiki
 
 - The Mission
 
-We want to increase the adoption and day-to-day usage of cryptocurrencies for first-time and haevy users through gamification and for them to learn more and invest in some worthy startups in the process.
+To increase the adoption and day-to-day usage of cryptocurrencies for first-time and haevy users through gamification and for them to learn more and invest in some worthy startups in the process.
 
 - The project
 
