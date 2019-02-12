@@ -7,10 +7,10 @@ We want to increase the adoption and day-to-day usage of cryptocurrencies for fi
 
 - The project
 
-It is a cryptocurrency
-It will be a utility token. It's sole purpose will be to serve as a medium for exchanging value at the website using open source platform for creating the base of the social media website
-and using open source exchange source code for transferring value between peers in the website
- About some problems and how to manage them
+It will be a website with implemented gamification which sole purpose will be to serve as a medium for exchanging knowledge between users using open source sode with social platform, wallet, crowdfunding, exchange properties and with the utility token as media for transferring value between the peers.
 
 - The governance
-(to be continued..
+
+- About some problems and how to manage them
+
+(to be continued..)
