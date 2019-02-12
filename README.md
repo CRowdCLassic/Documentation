@@ -3,11 +3,11 @@ To see the whitepaper, go to https://github.com/CRowdCLassic/whitepaper/wiki
 
 - The Mission
 
-To increase the adoption and day-to-day usage of cryptocurrencies for first-time and haevy users through gamification and for them to learn more and invest in some worthy startups in the process.
+To increase the adoption and day-to-day usage of cryptocurrencies for first-time and heavy users and for them to learn more about crypto realm and invest in some worthy startups in the process.
 
 - The project
 
-It will be a website with implemented gamification which sole purpose will be to serve as a medium for exchanging knowledge between users using open source sode with social platform, wallet, crowdfunding, exchange properties and with the utility token as media for transferring value between the peers.
+It will be a website with implemented gamification which purpose will be to serve as a medium for exchanging knowledge between users using open source sode with social and educational platform, wallet, crowdfunding, trade properties and with the utility token as media for transferring value between the peers.
 
 - The governance
 
