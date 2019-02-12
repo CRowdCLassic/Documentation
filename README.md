@@ -7,7 +7,7 @@ To increase the adoption and day-to-day usage of cryptocurrencies for first-time
 
 - The project
 
-It will be a website with implemented gamification which purpose will be to serve as a medium for exchanging knowledge between users using open source code with social and educational functions; wallet, crowdfunding, trade properties and with utility token as media for transferring value between the peers.
+It will be a website with implemented gamification which purpose will be to serve as a media for exchanging knowledge between users using open source code with social and educational functions; wallet, crowdfunding, trade properties and with utility token as medium for transferring value between the peers.
 
 - The governance
 
