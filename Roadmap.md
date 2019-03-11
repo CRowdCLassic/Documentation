@@ -23,11 +23,11 @@
   * Zawy's LWMA2 algorithm or else against mining difficulty fluctuations
 
 ### 2019 Q3
-- Moving to POW/POS/MN code for full technology experience
+- Moving to POW/POS/MN code base for full technology experience
 - Alpha version of the project:
   * Implementing UNA - Community Management System
   * Implementing BitShares - the code base behind CryptoBridge and other serious projects 
-  * Addind Know Your Customer (KYC) and other user management services through Janrain
+  * Addind Know Your Customer (KYC) and other user management services from Janrain
   * Consulting with an attorney office with experience in IPO/ICO/STO field
 
 ### 2019 Q4
