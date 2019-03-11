@@ -6,7 +6,7 @@ if the owner decides to drop them now or at some point soon, the price will tank
 If he decide to hodl them and make some money in the process, it's OK too because he is the initial founder and for that reason he deserves to cut him some slack. This will keep the circulating supply lower again.
 The other reason to be cool with that is because of there are other coin owners that accumulated some serious amounts of coins for the last few months through their MNs and mining at low difficulty, so they will be on the market too.
 And there's always a possibility of ousting him when community decides to do so if he doesn't play along.
-* **The coins locked in exchange wallets** - some accounts (viz. CRCL explorer richlist tab - the first 50th) has nearly equal amounts of coins and with no movement so there is high possibility they are exchange wallets. At this point they are as good as burned too so the circulating supply is even lower.
+* **The coins locked in exchange wallets** - some accounts (viz. CRCL explorer richlist tab - the first 50th) have nearly equal amounts of coins and with no movement so there is high possibility they are exchange wallets. At this point they are as good as burned too so the circulating supply is even lower.
 * **51% and other attacks** - will be mitigated with implementation of merged or triple-purpose mining (viz. Roadmap), POS later this year or by any other means necessary.
 * **Difficulty spikes after swift changes in hash power** - implementation of Zawy's LWMA2 algorithm (viz. Roadmap) or even some of his experimental ones will manage this effectively.
 
