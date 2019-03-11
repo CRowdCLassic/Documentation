@@ -1,5 +1,5 @@
 # Manifesto (WIP)
-To see the whitepaper, go to https://github.com/CRowdCLassic/whitepaper/wiki
+To see the whitepaper, go to https://github.com/CRowdCLassic/Documentation/wiki
 
 - The Mission
 
