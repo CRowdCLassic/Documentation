@@ -19,7 +19,7 @@
 - Putting online Minimum Viable Product (MVP) to visualize the idea
 - Start a marketing campaign to promote the project
 - Implement measures for mitigating common attacks:
-  * Merged or Triple-Purpose Mining against 51% and similar
+  * Merged or Triple-Purpose Mining algorithm against 51% and similar
   * Zawy's LWMA2 algorithm against mining difficulty fluctuations
 
 ### 2019 Q3
