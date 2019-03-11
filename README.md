@@ -1,5 +1,4 @@
 # Manifesto
-___
 
 ### The Mission
 To increase the adoption and day-to-day usage of cryptocurrencies for first-time and heavy users through gamification and for them to learn more about crypto realm and invest in some worthy startups in the process.
@@ -27,5 +26,5 @@ Everyone with corresponding account can observe the discussions at Github projec
 - BitShares - The code base behind CryptoBridge and other serious projects will serve as gateway for wallet, exchange, crowdfunding and voting properties of the project. Both are open source, properly licensed, posses the flexibility needed and complete each other, giving this project a posibility to achieve The Mission goals.   
 - Janrain - Customer Identity and Access Management for complete user's registration, security and identity management.
 - Consulting with an attorney office, having vast expirience in IPO/ICO/STO field, at every stage of creating the project's website (WIP).
-
+___
 To see or help with making the whitepaper, go to https://github.com/CRowdCLassic/Documentation/wiki
