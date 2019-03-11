@@ -28,7 +28,7 @@
   * Implementing UNA - Community Management System
   * Implementing BitShares - the code base behind CryptoBridge and other serious projects 
   * Addind Know Your Customer (KYC) and other user management services from Janrain
-  * Consulting with an attorney office with experience in IPO/ICO/STO field
+  * Consulting by an attorney office with experience in IPO/ICO/STO field
 
 ### 2019 Q4
 - Beta version of the project
