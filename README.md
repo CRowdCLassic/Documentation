@@ -7,7 +7,7 @@ To increase the adoption and day-to-day usage of cryptocurrencies for first-time
 It will be a website with implemented gamification abilities and will serve as media for exchanging knowledge between users using open source code with social, marketplace and educational functions; wallet, crowdfunding, trade and voting properties and with utility token as medium for transferring value between the peers.
 
 ### The management
-The project will be managed through Github Teams, Projects, Issues, etc. features like other similar project e.g. Bitcoin.
+The project will be managed through Github Teams, Projects, Issues, etc. like other similar project e.g. Bitcoin.
 All voting and other activities that can't be managed on Github will be managed at corresponding Discord channels unless stated otherwise.
 
 ### The governance
