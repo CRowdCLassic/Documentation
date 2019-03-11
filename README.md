@@ -1,4 +1,4 @@
-# Manifesto
+# Manifesto (WIP)
 
 ### The Mission
 To increase the adoption and day-to-day usage of cryptocurrencies for first-time and heavy users through gamification and for them to learn more about crypto realm and invest in some worthy startups in the process.
