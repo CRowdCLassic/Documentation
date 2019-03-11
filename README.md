@@ -18,7 +18,7 @@ The advisors can't vote but can express their opinion on the subject to defend c
 The Team Leaders and Advisors have right to veto on given subject. In this case the subject goes to community voting.
 - Community voters are verified Discord members (labeled with tag on Discord server) with at least 1 CRCL masternode. 
 Every member has 1 vote regardless of how many masternodes he has and can access corresponding Discord channels to excercise his right to vote. It's Community Manager's responsibility to regularly check the every Discord member's masternode possession.
-- Everyone with corresponding account can observe the discussions at Github project pages and voting process in Discord channels. 
+- Everyone with corresponding account can observe the discussions at Github project's pages and voting process in Discord channels. 
 
 ### The cornerstones
 - UNA - Community Management System (successor of Dolphin Pro) will serve as platform for implementation of social, gamification, marketplace and educational functions and
