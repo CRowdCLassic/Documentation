@@ -11,20 +11,14 @@ The project will be managed through Github Teams, Projects, Issues, etc. feature
 All voting and other activities that can't be managed on Github will be managed at corresponding Discord channels unless stated otherwise.
 
 ### The governance
-Governing body consists of three teams (Business, Development and Marketing) managed by Team Leaders(TL) and one or more Advisors(A).
-The teams can contain sub-teams e.g Marketing Team can have Social Media Team.
-
-Everyone with Github account can add, suggest or request changes, features, etc. through Issues in corresponding project e.g. Whitepaper.
-
-Decisions, elevated from certain Issues or else, are made through voting by Team Leaders with absolute majority (2/3).
-
+- The governing body consists of three teams (Business, Development and Marketing) managed by Team Leaders(TL) and one or more Advisors(A). The teams can contain sub-teams e.g Marketing Team can have Social Media Team.
+- Everyone with Github account can add, suggest or request changes, features, etc. through Issues in corresponding project e.g. Whitepaper.
+- Decisions, elevated from certain Issues or else, are made through voting by Team Leaders with absolute majority (2/3).
 The advisors can't vote but can express their opinion on the subject to defend certain position at corresponding project's page. 
 The Team Leaders and Advisors have right to veto on given subject. In this case the subject goes to community voting.
-
-Community voters are verified Discord members (labeled with tag on Discord server) with at least 1 CRCL masternode. 
+- Community voters are verified Discord members (labeled with tag on Discord server) with at least 1 CRCL masternode. 
 Every member has 1 vote regardless of how many masternodes he has and can access corresponding Discord channels to excercise his right to vote. It's Community Manager's responsibility to regularly check the every Discord member's masternode possession.
-
-Everyone with corresponding account can observe the discussions at Github project pages and voting process in Discord channels. 
+- Everyone with corresponding account can observe the discussions at Github project pages and voting process in Discord channels. 
 
 ### The cornerstones
 - UNA - Community Management System (suscesor of Dolphin Pro) will serve as platform for implementation of social, gamification, marketplace and educational functions and
