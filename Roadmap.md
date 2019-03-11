@@ -35,7 +35,7 @@
 - Mobile apps
 
 ### 2020 Q1
-- Code audit by a third-party entity
+- Code base audit by a third-party entity
 
 ### 2020 Q2 
 - Official launch 
