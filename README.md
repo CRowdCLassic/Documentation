@@ -4,7 +4,7 @@
 To increase the adoption and day-to-day usage of cryptocurrencies for first-time and heavy users through gamification and for them to learn more about crypto realm and invest in some worthy startups in the process.
 
 ### The project
-It will be a website with implemented gamification abilities which purpose will be to serve as media for exchanging knowledge between users using open source code with social, marketplace and educational functions; wallet, crowdfunding, trade and voting properties and with utility token as medium for transferring value between the peers.
+It will be a website with implemented gamification abilities and will serve as media for exchanging knowledge between users using open source code with social, marketplace and educational functions; wallet, crowdfunding, trade and voting properties and with utility token as medium for transferring value between the peers.
 
 ### The management
 The project will be managed through Github Teams, Projects, Issues, etc. features like other similar project e.g. Bitcoin.
