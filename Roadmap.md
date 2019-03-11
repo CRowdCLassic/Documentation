@@ -1,4 +1,4 @@
-# Roadmap 
+# Roadmap (WIP)
 
 ### 2019 Q1
 - ~~New wallets has to be compiled with the necessary changes~~
