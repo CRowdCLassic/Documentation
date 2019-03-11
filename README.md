@@ -22,7 +22,7 @@ Every member has 1 vote regardless of how many masternodes he has and can access
 
 ### The cornerstones
 - UNA - Community Management System (suscesor of Dolphin Pro) will serve as platform for implementation of social, gamification, marketplace and educational functions and
-- BitShares - The code base behind CryptoBridge and other serious projects will serve as gateway for wallet, exchange, crowdfunding and voting properties of the project. Both are open source, properly licensed, posses the flexibility needed and complete each other, giving this project a posibility to achieve The Mission goals.   
+- BitShares - The code base behind CryptoBridge and other serious projects will serve as gateway for wallet, exchange, crowdfunding and voting properties of the project. Both are open source, properly licensed, possess the flexibility needed and complete each other, giving this project a posibility to achieve The Mission goals.   
 - Janrain - Customer Identity and Access Management for complete user's registration, security and identity management.
 - Consulting with an attorney office, having vast expirience in IPO/ICO/STO field, at every stage of creating the project's website (WIP).
 ___
