@@ -11,7 +11,7 @@
 - ~~Start a promo campaign for the project~~
 - Masternode explorer to visualize the incentive of owning MN 
 - Another exchange listing to gain attention and volume
-- Adding docker files to the source to make starting nodes in containers possible
+- Adding Docker files to the source to make starting nodes in containers possible
 
 ### 2019 Q2
 - Writing a Whitepaper to explain the project deeper
