@@ -19,16 +19,16 @@
 - Putting online Minimum Viable Product (MVP) to visualize the idea
 - Start a marketing campaign to promote the project
 - Implement measures for mitigating common attacks:
-* Merged or Triple-Purpose Mining against 51% and similar
-* Zawy's LWMA2 algorithm against mining difficulty droping
+  * Merged or Triple-Purpose Mining against 51% and similar
+  * Zawy's LWMA2 algorithm against mining difficulty droping
 
 ### 2019 Q3
 - Moving to POW/POS/MN code for full technology experience
-- Alpha version of the project
-* Implementing UNA - Community Management System
-* Implementing BitShares - the code base behind CryptoBridge and other serious projects 
-* Addind Know Your Customer (KYC) and other user management services through Janrain
-* Consulting with an attorney office with experience in IPO/ICO/STO field
+- Alpha version of the project:
+  * Implementing UNA - Community Management System
+  * Implementing BitShares - the code base behind CryptoBridge and other serious projects 
+  * Addind Know Your Customer (KYC) and other user management services through Janrain
+  * Consulting with an attorney office with experience in IPO/ICO/STO field
 
 ### 2019 Q4
 - Beta version of the project
