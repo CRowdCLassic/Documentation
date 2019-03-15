@@ -11,7 +11,7 @@ The project will be managed through Github Teams, Projects, Issues, etc. like ot
 All voting and other activities that can't be managed on Github will be managed at corresponding Discord channels unless stated otherwise.
 
 ### The governance
-- The governing body consists of three teams (Business, Development and Marketing) managed by Team Leaders(TL) and one or more Advisors(A). The teams can contain sub-teams e.g Marketing Team can have Social Media Team.
+- The governing body consists of three teams (Business Operations, Research and Development and Media and Marketing) managed by Team Leaders(TL) and one or more Advisors(A). The teams can contain sub-teams e.g Marketing Team can have Social Media Team.
 - Everyone with Github account can add, suggest or request changes, features, etc. through Issues in corresponding project e.g. Whitepaper.
 - Decisions, elevated from certain Issues or else, are made through voting by Team Leaders with absolute majority (2/3).
 The advisors can't vote but can express their opinion on the subject to defend certain position at corresponding project's page. 
